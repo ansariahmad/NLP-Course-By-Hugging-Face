@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 my-bert-model/
 my-bert-tokenizer/
+my-dummy-model/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
