@@ -25,9 +25,30 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Directories
 my-bert-model/
 my-bert-tokenizer/
 my-dummy-model/
+drug-reviews
+drugsCom_raw
+test-trainer
+my-dummy-model-2
+
+# json files
+SQuAD_it-test.json
+SQuAD_it-train.json
+drug-reviews-test.jsonl
+drug-reviews-train.jsonl
+drug-reviews-validation.jsonl
+
+# zip files
+SQuAD_it-test.json.gz
+SQuAD_it-train.json.gz
+drugsCom_raw (1).zip
+drugsCom_raw.zip
+
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -81,6 +102,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 file.ipynb
+
 
 # IPython
 profile_default/
