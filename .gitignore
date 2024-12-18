@@ -35,6 +35,8 @@ drugsCom_raw
 test-trainer
 my-dummy-model-2
 models/
+code-search-net-tokenizer/
+
 
 
 # json files
